@@ -9,7 +9,7 @@ class Student < User
   end 
   
   def knowledge
-    self
+    self.knowledge
   end 
 
 end
